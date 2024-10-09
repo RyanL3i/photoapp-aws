@@ -1,0 +1,2 @@
+# ignore the two ini files when uploading
+*.ini
